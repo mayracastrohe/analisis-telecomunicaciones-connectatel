@@ -100,10 +100,7 @@ Durante el desarrollo del proyecto se realizaron las siguientes etapas:
 
 4. Verificar que los archivos estén en la misma ruta del notebook o actualizar las rutas de lectura si es necesario.
 
-5. Instalar dependencias (si aplica):
-
-```python
-pip install pandas numpy matplotlib seaborn
+5. Instalar dependencias (si aplica).
 
 ---
 
