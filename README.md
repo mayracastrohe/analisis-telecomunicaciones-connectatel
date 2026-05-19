@@ -77,9 +77,11 @@ Durante el desarrollo del proyecto se realizaron las siguientes etapas:
 
 # 🔄 Guía de Reproducción en Google Colab
 
-Haz clic en el siguiente enlace:
+Haz clic en el siguiente botón:
 
-https://colab.research.google.com/drive/1Bx4wimrZwTj8CqD987fynS715jeTXpGM
+<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/1Bx4wimrZwTj8CqD987fynS715jeTXpGM">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 o,
 
