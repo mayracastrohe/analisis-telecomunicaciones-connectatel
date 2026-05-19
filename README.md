@@ -75,16 +75,6 @@ Durante el desarrollo del proyecto se realizaron las siguientes etapas:
 
 ---
 
-# ▶️ Cómo Ejecutar el Notebook
-
-## Opción 1: Google Colab
-
-1. Subir el archivo `.ipynb` a Google Colab.
-2. Subir los datasets (`plans.csv`, `users_latam.csv`, `usage.csv`).
-3. Ejecutar las celdas en orden.
-
----
-
 # 🔄 Guía de Reproducción en Google Colab
 
 1. Descargar o clonar este repositorio.
