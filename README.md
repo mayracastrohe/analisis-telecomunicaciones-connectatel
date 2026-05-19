@@ -77,6 +77,12 @@ Durante el desarrollo del proyecto se realizaron las siguientes etapas:
 
 # 🔄 Guía de Reproducción en Google Colab
 
+Haz clic en el siguiente enlace:
+
+https://colab.research.google.com/drive/1Bx4wimrZwTj8CqD987fynS715jeTXpGM
+
+o,
+
 1. Descargar o clonar este repositorio.
 
 2. Abrir el archivo `.ipynb` en Google Colab:
