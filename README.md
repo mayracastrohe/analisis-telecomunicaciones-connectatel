@@ -1,4 +1,4 @@
-# 📊 Proyecto 6 - Análisis de Telecomunicaciones ConnectaTel
+# 📊 Análisis de Telecomunicaciones ConnectaTel
 
 ## 📌 Objetivo del Proyecto
 
